@@ -1,6 +1,6 @@
 {
   "name": "discodes-utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility package exclusively made for the Discodes App",
   "main": "index.ts",
   "scripts": {
