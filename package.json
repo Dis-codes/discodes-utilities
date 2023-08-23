@@ -1,0 +1,26 @@
+{
+  "name": "discodes-utilities",
+  "version": "1.0.0",
+  "description": "A utility package exclusively made for the Discodes App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dis-codes/discodes-utilities.git"
+  },
+  "keywords": [
+    "utility",
+    "discodes"
+  ],
+  "author": "LimeNade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dis-codes/discodes-utilities/issues"
+  },
+  "homepage": "https://github.com/Dis-codes/discodes-utilities#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
